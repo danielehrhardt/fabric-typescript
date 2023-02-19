@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/fabric": "^4.5.15",
+    "fabric": "5",
+    "html-to-image": "^1.11.11"
+  }
+}

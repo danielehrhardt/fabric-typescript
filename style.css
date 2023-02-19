@@ -1,0 +1,9 @@
+.clip-svg {
+  clip-path: url(#myClip);
+  object-fit: cover;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 18em;
+  height: 18em;
+}
